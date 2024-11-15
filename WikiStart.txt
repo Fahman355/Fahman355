@@ -1,0 +1,12 @@
+= Welcome to FileZilla's Trac =
+
+On this page you can view, create and update tickets about FileZilla Client and FileZilla Server. Each ticket represents exactly one bug report, feature request or patch. For questions and support requests, you should use the [https://forum.filezilla-project.org/ forums] instead.
+
+In order to create or update tickets, you need to register an account and login.
+
+== Instructions ==
+
+Before submitting a ticket, you should to read the [TicketSubmissionGuide Ticket Submission Guide] and the [NewTicketFormGuide 'New Ticket' form guide].
+
+Click on [wiki:Queries View Tickets] to search existing tickets.
+
